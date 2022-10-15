@@ -1,6 +1,8 @@
 # Random Capital Netboon Instrument Searcher - Browser addon
 This is a Chrome and Firefox addon which helps you to search for an instrument by its ticker on Random Capital's Netboon.
 
+# This addon doesn't work anymore since Random Capital merged into Erste Befektetési Zrt.
+
 ### Screenshot
 https://rcnis.anuka.me/screenshot.png
 
